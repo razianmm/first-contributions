@@ -120,6 +120,7 @@ Edison Shek
 - [Miguel Ballesteros](https://github.com/AlfaOmegaX)
 - [BlackSpheres](https://github.com/BlackSpheres)
 - [Charvi](https://github.com/cm7799)
+- [Mo Razian] (http://github.com/razianmm)
 - [Carlos Carvalho](http://github.com/chcdc)
 - [Huu Ngoc Chinh Cao](https://github.com/ganhatgame)
 - [Vipul Kanade](https://github.com/vipulkanade)
